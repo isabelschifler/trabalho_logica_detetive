@@ -14,7 +14,7 @@
 
 ## Dossiê 1: O Álibi do Relógio
 
-**DOSSIÊ:** O Álibi do Relógio   **DUPLA:** __________________
+**DOSSIÊ:** O Álibi do Relógio   
 
 **1. Símbolos**
 
@@ -60,7 +60,7 @@ O que isso significa no caso: o álibi do suspeito não é compatível com as ou
 
 ## Dossiê 2: A Pegada no Jardim
 
-**DOSSIÊ:** A Pegada no Jardim   **DUPLA:** __________________
+**DOSSIÊ:** A Pegada no Jardim   
 
 **1. Símbolos**
 
@@ -107,7 +107,7 @@ O que isso significa no caso: a conclusão está provada por refutação. O jard
 
 ## Dossiê 3: O Cofre do Museu
 
-**DOSSIÊ:** O Cofre do Museu   **DUPLA:** __________________
+**DOSSIÊ:** O Cofre do Museu 
 
 **1. Símbolos**
 
@@ -155,8 +155,7 @@ O que isso significa no caso: as pistas não provam o arrombamento. Elas indicam
 
 ## Dossiê 4: O Testemunho Contraditório
 
-**DOSSIÊ:** O Testemunho Contraditório   **DUPLA:** __________________
-
+**DOSSIÊ:** O Testemunho Contraditório 
 **1. Símbolos**
 
 - `P`: ele saiu pela porta dos fundos
@@ -197,7 +196,7 @@ O que isso significa no caso: os quatro depoimentos não podem ser todos verdade
 
 ## Dossiê 5: O Suspeito Invisível
 
-**DOSSIÊ:** O Suspeito Invisível   **DUPLA:** __________________
+**DOSSIÊ:** O Suspeito Invisível  
 
 **1. Símbolos**
 
