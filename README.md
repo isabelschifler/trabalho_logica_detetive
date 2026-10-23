@@ -1,17 +1,5 @@
 # Detetive: O Caso da Cláusula Vazia
 
-## Resumo dos resultados
-
-| Dossiê | Tipo | Resultado |
-|---|---|---|
-| 1. O Álibi do Relógio | Encadeamento de implicações | Insatisfatível |
-| 2. A Pegada no Jardim | Prova por refutação | Conclusão provada |
-| 3. O Cofre do Museu | Sem contradição | Satisfatível |
-| 4. O Testemunho Contraditório | Depoimentos incompatíveis | Insatisfatível |
-| 5. O Suspeito Invisível | Caso curto | Conclusão provada |
-
----
-
 ## Dossiê 1: O Álibi do Relógio
 
 **DOSSIÊ:** O Álibi do Relógio   
